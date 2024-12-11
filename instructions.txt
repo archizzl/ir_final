@@ -1,0 +1,40 @@
+we are dealing with these documents:
+
+
+    {
+        "id": 14820963,
+        "title": "deej-aying",
+        "text": "Deej",
+        "start": "2022-02-02T17:00:00-0500",
+        "end": "2022-02-02T18:00:00-0500",
+        "className": "spin-cal-pl category-rock",
+        "url": "/WRBB/pl/14820963/deej-aying",
+        "editUrl": "/m/playlist/edit/14820963",
+        "deleteUrl": null,
+        "rebroadcastUrl": "/m/playlist/create?playlist_id=14820963",
+        "retireUrl": "",
+        "editable": false,
+        "data": {
+            "category": "Rock"
+        }
+    },
+    {
+        "id": 15230676,
+        "title": "YEAH! New YORK!",
+        "text": "DJ Ab E",
+        "start": "2022-02-03T13:00:00-0500",
+        "end": "2022-02-03T14:00:00-0500",
+        "className": "spin-cal-pl category-rock",
+        "url": "/WRBB/pl/15230676/YEAH-New-YORK",
+        "editUrl": "/m/playlist/edit/15230676",
+        "deleteUrl": null,
+        "rebroadcastUrl": "/m/playlist/create?playlist_id=15230676",
+        "retireUrl": "",
+        "editable": false,
+        "data": {
+            "category": "Rock"
+        }
+    },
+
+which we want to tokenize into looking something more like this:
+
